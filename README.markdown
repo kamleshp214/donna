@@ -95,4 +95,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## About
 
-Built by Kamlesh Prajapat as a fun side project to bring *Suits*’ Donna to life as a task manager. Connect with me on [LinkedIn](https://www.linkedin.com/in/kamleshp214) to chat about Python, automation, or witty AI assistants!
+Built by Kamlesh Porwal as a fun side project to bring *Suits*’ Donna to life as a task manager. Connect with me on [LinkedIn](https://www.linkedin.com/in/kamleshp214) to chat about Python, automation, or witty AI assistants!
